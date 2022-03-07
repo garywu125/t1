@@ -4,7 +4,7 @@ $ npx degit https://github.com/garywu125/base-svelte  <project-name>
 ```
 # create remote project <project-name>
 
-# add local repository and sync with remotge repository
+# add local repository and sync with remote repository
 ```
 git init
 git add -A
