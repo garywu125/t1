@@ -5,13 +5,14 @@ $ npx degit https://github.com/garywu125/base-svelte  <project-name>
 # create remote project <project-name>
 
 # add local repository
+```
 git init
 git add -A
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/garywu125/<project-name>.git
 git push -u origin main
-
+```
 
 # Svelte + TS + Vite
 
